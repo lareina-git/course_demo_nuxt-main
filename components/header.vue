@@ -11,7 +11,7 @@
             <NuxtLink to="/" class="nav-link">首页</NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink to="/about-us" class="nav-link">关于我们</NuxtLink>
+            <NuxtLink to="/about-us" class="nav-link">欢迎联系我们</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink to="/blog" class="nav-link">博客</NuxtLink>
